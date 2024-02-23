@@ -27,17 +27,8 @@ Check out the [demo](https://real-estate-homyz.netlify.app/) to explore the proj
 ![Screenshot of the homepage]([[screenshot1.png]([https://imgur.com/HJa1ady)](https://imgur.com/yVG79qc)](https://imgur.com/a/EIQZNc6))
 *Screenshot of the homepage*
 
-![Screenshot of a property listing page]([screenshot2.png](https://imgur.com/KPbC6Fy))
-![Screenshot of a property listing page]([screenshot2.png](https://imgur.com/yVG79qc))
-*Screenshot of a property listing page*
 
-
-[Imgur](https://imgur.com/yVG79qc)
-
-
-<iframe src="https://imgur.com/a/yVG79qc/embed?pub=true"></iframe>
-
-[View Imgur Album](https://imgur.com/a/yVG79qc)
+[screencapture-real-estate-homyz-netlify-app-2024-02-23-18-25-53.png](https://postimg.cc/QHVtgTJp)
 
 
 ## Future Improvements
