@@ -12,7 +12,7 @@ Welcome to my simple real estate project! This project is aimed at showcasing a 
 
 ## Demo
 
-Check out the [demo](https://your-demo-link.com) to explore the project live!
+Check out the [demo](https://real-estate-homyz.netlify.app/) to explore the project live!
 
 ## Technologies Used
 
@@ -24,11 +24,20 @@ Check out the [demo](https://your-demo-link.com) to explore the project live!
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot of the homepage]([[screenshot1.png]([https://imgur.com/HJa1ady)](https://imgur.com/yVG79qc)](https://imgur.com/a/EIQZNc6))
 *Screenshot of the homepage*
 
-![Screenshot 2](screenshot2.png)
+![Screenshot of a property listing page]([screenshot2.png](https://imgur.com/KPbC6Fy))
 *Screenshot of a property listing page*
+
+
+[Imgur](https://imgur.com/yVG79qc)
+
+
+<iframe src="https://imgur.com/a/yVG79qc/embed?pub=true"></iframe>
+
+[View Imgur Album](https://imgur.com/a/yVG79qc)
+
 
 ## Future Improvements
 
@@ -36,5 +45,5 @@ Check out the [demo](https://your-demo-link.com) to explore the project live!
 - Add more advanced search filters.
 - Enhance the design for a more modern look and feel.
 
-Feel free to explore the code on [GitHub]([https://github.com/your-username/your-project-repo](https://real-estate-homyz.netlify.app/)!
+Feel free to explore the code on [GitHub](https://github.com/Rahim-lrb/real-estate-website)!
 
