@@ -4,38 +4,38 @@ Welcome to my simple real estate project! This project is aimed at showcasing a 
 
 ## Features
 
-- Search functionality to find properties based on various criteria such as location, price range, number of bedrooms, etc.
-- Property listings with detailed information including images, descriptions, and amenities.
-- Interactive map integration to visualize property locations.
-- Contact form for users interested in a particular property.
-- Responsive design for seamless viewing across different devices.
+- **Stunning UI**: A visually captivating design with modern aesthetics, ensuring an intuitive and engaging user experience.
+- **Property Listings**: Detailed information including images, descriptions, and amenities.
+- **Contact Form**: Easily connect with users interested in a particular property.
+- **Responsive Design**: Seamlessly view across different devices.
 
 ## Demo
 
-Check out the [demo](https://real-estate-homyz.netlify.app/) to explore the project live!
+Explore the project live [here](https://real-estate-homyz.netlify.app/)!
 
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- tailwind css
-- aos animation library
+- Tailwind CSS
+- AOS animation library
 
 ## Screenshots
 
-![Screenshot of the homepage]([[screenshot1.png]([https://imgur.com/HJa1ady)](https://imgur.com/yVG79qc)](https://imgur.com/a/EIQZNc6))
-*Screenshot of the homepage*
+### Homepage
+[![Homepage](https://i.postimg.cc/jd47b6Wk/screencapture-real-estate-homyz-netlify-app-2024-02-23-18-25-53.png)](https://postimg.cc/QHVtgTJp)
 
+### Estates Page
+[![Estates Page](https://i.postimg.cc/vTdtPQj1/screencapture-real-estate-homyz-netlify-app-estate-2024-02-23-18-27-55.png)](https://postimg.cc/hzpmvqKg)
 
-[screencapture-real-estate-homyz-netlify-app-2024-02-23-18-25-53.png](https://postimg.cc/QHVtgTJp)
-
+### Estate Page
+[![screencapture-real-estate-homyz-netlify-app-Estate-4659650-2024-02-23-18-49-41.png](https://i.postimg.cc/vT3xWbdw/screencapture-real-estate-homyz-netlify-app-Estate-4659650-2024-02-23-18-49-41.png)](https://postimg.cc/5QQtJc0s)
 
 ## Future Improvements
 
+- **Search Functionality**: Find properties based on various criteria such as location, price range, and number of bedrooms.
 - Implement user authentication for features like saving favorite properties or submitting inquiries.
 - Add more advanced search filters.
-- Enhance the design for a more modern look and feel.
 
 Feel free to explore the code on [GitHub](https://github.com/Rahim-lrb/real-estate-website)!
-
