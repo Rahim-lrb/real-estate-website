@@ -28,6 +28,7 @@ Check out the [demo](https://real-estate-homyz.netlify.app/) to explore the proj
 *Screenshot of the homepage*
 
 ![Screenshot of a property listing page]([screenshot2.png](https://imgur.com/KPbC6Fy))
+![Screenshot of a property listing page]([screenshot2.png](https://imgur.com/yVG79qc))
 *Screenshot of a property listing page*
 
 
