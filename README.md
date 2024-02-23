@@ -30,7 +30,7 @@ Explore the project live [here](https://real-estate-homyz.netlify.app/)!
 [![Estates Page](https://i.postimg.cc/vTdtPQj1/screencapture-real-estate-homyz-netlify-app-estate-2024-02-23-18-27-55.png)](https://postimg.cc/hzpmvqKg)
 
 ### Estate Page
-[![screencapture-real-estate-homyz-netlify-app-Estate-4659650-2024-02-23-18-49-41.png](https://i.postimg.cc/vT3xWbdw/screencapture-real-estate-homyz-netlify-app-Estate-4659650-2024-02-23-18-49-41.png)](https://postimg.cc/5QQtJc0s)
+
 
 ## Future Improvements
 
